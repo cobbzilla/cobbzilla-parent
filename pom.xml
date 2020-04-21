@@ -107,7 +107,6 @@
         <ant.version>1.9.4</ant.version>
         <ant-contrib.version>1.0b3</ant-contrib.version>
         <ical4j.version>1.0.3</ical4j.version>
-        <mockito.version>1.9.5</mockito.version>
         <snakeyaml.version>1.12</snakeyaml.version>
 
         <jclouds.groupId>org.apache.jclouds</jclouds.groupId>
