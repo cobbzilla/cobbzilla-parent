@@ -55,7 +55,7 @@
         <args4j.version>2.0.23</args4j.version>
 
         <xmemcached.version>1.4.2</xmemcached.version>
-        <jedis.version>2.9.0</jedis.version>
+        <jedis.version>3.3.0</jedis.version>
         <guava.version>19.0</guava.version>
         <guice.version>3.0</guice.version>
 
