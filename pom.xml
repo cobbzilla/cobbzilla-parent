@@ -77,7 +77,7 @@
 
         <!-- note: upgrading Jackson to 2.10.x causes problems -->
         <!-- see: https://github.com/FasterXML/jackson-jaxrs-providers/issues/114 -->
-        <jackson.version>2.9.10</jackson.version>
+        <jackson.version>2.11.2</jackson.version>
 
         <org.springframework.version>4.3.21.RELEASE</org.springframework.version>
 
