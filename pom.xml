@@ -59,9 +59,9 @@
         <guava.version>29.0-jre</guava.version>
         <guice.version>3.0</guice.version>
 
-        <httpcore.version>4.4.12</httpcore.version>
-        <httpclient.version>4.5.10</httpclient.version>
-        <httpmime.version>4.5.10</httpmime.version>
+        <httpcore.version>4.4.13</httpcore.version>
+        <httpclient.version>4.5.13</httpclient.version>
+        <httpmime.version>4.5.13</httpmime.version>
         <commons-codec.version>1.9</commons-codec.version>
 
         <junit.version>4.12</junit.version>
