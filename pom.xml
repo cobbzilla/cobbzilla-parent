@@ -98,7 +98,7 @@
 
         <jetty.version>9.4.20.v20190813</jetty.version>
         <thrift.version>0.9.1</thrift.version>
-        <handlebars.version>2.3.2</handlebars.version>
+        <handlebars.version>4.2.0</handlebars.version>
 
         <quartz.version>2.2.3</quartz.version>
         <jtidy.version>4aug2000r7-dev</jtidy.version>
