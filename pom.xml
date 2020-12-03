@@ -88,6 +88,7 @@
         <morphia.version>1.2.2</morphia.version>
         <proxytoys.version>1.0</proxytoys.version>
 
+        <aws.sdk.version>1.11.911</aws.sdk.version>
         <jetty.version>9.4.35.v20201120</jetty.version>
         <thrift.version>0.9.1</thrift.version>
         <handlebars.version>4.2.0</handlebars.version>
