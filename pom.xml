@@ -108,6 +108,7 @@
         <opencsv.version>2.3</opencsv.version>
         <swagger.version>2.1.5</swagger.version>
         <xdocreport.version>1.0.5</xdocreport.version>
+        <graalvm.version>19.2.0</graalvm.version>
     </properties>
 
     <dependencies>
