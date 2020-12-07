@@ -7,7 +7,7 @@ function die () {
 BASE=$(cd $(dirname $0) && pwd)
 
 POM=${BASE}/pom.xml
-if [ ! -z "${1}" ] ; then
+if [ -n "${1}" ] ; then
   POM="${1}"
 fi
 
